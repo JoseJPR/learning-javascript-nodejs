@@ -23,7 +23,7 @@ The main purpose is that a developer with an initial JavaScript base can underst
 
 ### What is JavaScript
 
-[🇬🇧 | 📋 What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) \
+[🇬🇧🇪🇸 | 📋 What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) \
 [🇪🇸 | 📹 Quiero aprender JavaScript, ¿Por dónde empiezo?](https://www.youtube.com/watch?v=qTIfgRWGqbE)
 
 ### Evolution to ECMAScript 6
@@ -39,23 +39,53 @@ The main purpose is that a developer with an initial JavaScript base can underst
 
 ### How to create an API project in NodeJS
 
+[🇪🇸 | 📋 Estructura de una API Rest con NodeJS, Express y MongoDB](https://medium.com/williambastidasblog/estructura-de-una-api-rest-con-nodejs-express-y-mongodb-cdd97637b18b)
+
 ### What is a Middleware
+
+[🇬🇧 | 📋 A Simple Explanation Of Express Middleware](https://medium.com/@agoiabeladeyemi/a-simple-explanation-of-express-middleware-c68ea839f498)
 
 ### How to work with Async Await, Promises and Callbacks
 
+[🇬🇧 | 📋 Promises, async/await](https://javascript.info/async/)
+[🇬🇧 | 📹 Javascript Async Await, Promesas y Callbacks](https://www.youtube.com/watch?v=Q3HtXuDEy5s) \
+[🇪🇸 | 📹 Cómo funciona Async/Await en menos de 15 minutos](https://www.youtube.com/watch?v=u2axmPnxUoo)
+
 ### Create a first NodeJS project with Fastify
+
+[🇬🇧 | 📹 Building a simple REST API with NodeJS & Fastify](https://www.youtube.com/watch?v=R-TwoJhNlho)
 
 ### HTTP Status Codes
 
+[🇬🇧🇪🇸 | 📋 HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
 ### Unit testing
+
+[🇬🇧 | 📹 Unit Test con Jest](https://www.youtube.com/watch?v=mJnAtmTAP-U)
 
 ### Task management with Gulp
 
-### Recommended Courses
+[🇬🇧🇪🇸 | 📋 What Is Gulp?](https://webdesign.tutsplus.com/tutorials/what-is-gulp--cms-30432) \
+[🇬🇧 | 📋 Super simple Gulp](https://coder-coder.com/gulp-tutorial-beginners/) \
+[🇪🇸 | 📋 Empezando con Gulp](https://riptutorial.com/es/gulp)
 
-### Websites of Interest
+### 🎓 Recommended Courses
 
-[🇬🇧 | 🌍 ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/)
+[🇪🇸 | Curso de Node.js y Express](https://openwebinars.net/cursos/nodejs/) \
+[🇪🇸 | Node.js Avanzado](https://www.linkedin.com/learning/node-js-avanzado/el-universo-de-node-js) \
+[🇪🇸 | Javascript ES6](https://www.youtube.com/watch?v=vEsWuxV18Yk&list=PLIddmSRJEJ0tYYrHQAAeTAmXzj36jxXoF)
+[🇪🇸 | Curso básico de Gulp](https://www.youtube.com/watch?v=tQY2ZIwCC18&list=PLROIqh_5RZeDf1LgliebPZ_0TAX-QA_xm)
+
+### 🌍 Websites of Interest
+
+[🇬🇧 | NodeJS Website](https://nodejs.org/) \
+[🇬🇧 | NPM Website](https://www.npmjs.com/) \
+[🇬🇧 | ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) \
+[🇬🇧 | The Modern JavaScript](http://javascript.info/) \
+[🇬🇧 | Fastify Website](https://www.fastify.io/)
+[🇬🇧 | NPM Jest](https://www.npmjs.com/package/jest)
+[🇬🇧 | NPM Supertest](https://www.npmjs.com/package/supertest)
+[🇬🇧 | Gulp Website](https://gulpjs.com/)
 
 ## Happy Code
 
