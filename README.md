@@ -47,7 +47,7 @@ The main purpose is that a developer with an initial JavaScript base can underst
 
 ### How to work with Async Await, Promises and Callbacks
 
-[🇬🇧 | 📋 Promises, async/await](https://javascript.info/async/)
+[🇬🇧 | 📋 Promises, async/await](https://javascript.info/async/) \
 [🇬🇧 | 📹 Javascript Async Await, Promesas y Callbacks](https://www.youtube.com/watch?v=Q3HtXuDEy5s) \
 [🇪🇸 | 📹 Cómo funciona Async/Await en menos de 15 minutos](https://www.youtube.com/watch?v=u2axmPnxUoo)
 
@@ -73,7 +73,7 @@ The main purpose is that a developer with an initial JavaScript base can underst
 
 [🇪🇸 | Curso de Node.js y Express](https://openwebinars.net/cursos/nodejs/) \
 [🇪🇸 | Node.js Avanzado](https://www.linkedin.com/learning/node-js-avanzado/el-universo-de-node-js) \
-[🇪🇸 | Javascript ES6](https://www.youtube.com/watch?v=vEsWuxV18Yk&list=PLIddmSRJEJ0tYYrHQAAeTAmXzj36jxXoF)
+[🇪🇸 | Javascript ES6](https://www.youtube.com/watch?v=vEsWuxV18Yk&list=PLIddmSRJEJ0tYYrHQAAeTAmXzj36jxXoF) \
 [🇪🇸 | Curso básico de Gulp](https://www.youtube.com/watch?v=tQY2ZIwCC18&list=PLROIqh_5RZeDf1LgliebPZ_0TAX-QA_xm)
 
 ### 🌍 Websites of Interest
@@ -82,9 +82,9 @@ The main purpose is that a developer with an initial JavaScript base can underst
 [🇬🇧 | NPM Website](https://www.npmjs.com/) \
 [🇬🇧 | ECMAScript 6 — New Features: Overview & Comparison](http://es6-features.org/) \
 [🇬🇧 | The Modern JavaScript](http://javascript.info/) \
-[🇬🇧 | Fastify Website](https://www.fastify.io/)
-[🇬🇧 | NPM Jest](https://www.npmjs.com/package/jest)
-[🇬🇧 | NPM Supertest](https://www.npmjs.com/package/supertest)
+[🇬🇧 | Fastify Website](https://www.fastify.io/) \
+[🇬🇧 | NPM Jest](https://www.npmjs.com/package/jest) \
+[🇬🇧 | NPM Supertest](https://www.npmjs.com/package/supertest) \
 [🇬🇧 | Gulp Website](https://gulpjs.com/)
 
 ## Happy Code
