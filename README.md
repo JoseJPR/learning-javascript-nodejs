@@ -1,8 +1,8 @@
 # Learning JavaScript & NodeJS [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-## Description
+## 🔖 Description
 
-This repository contains documentation, videos and links of interest about NodeJS.
+This repository contains documentation, videos and links of interest about JavaScript and NodeJS.
 
 The main purpose is that a developer with an initial JavaScript base can understand how to work with NodeJS and NPM, create a Rest API with any framework and can develop a group of unit tests.
 
@@ -14,6 +14,7 @@ The main purpose is that a developer with an initial JavaScript base can underst
 * How to create an API project in NodeJS (Idea that applies to other frameworks such as Koa, Polka or Fastify)
 * What is a Middleware
 * How to work with Async Await, Promises and Callbacks
+* How to work with Arrays
 * Create a first NodeJS project with Fastify
 * HTTP Status Codes
 * Unit testing
@@ -50,6 +51,10 @@ The main purpose is that a developer with an initial JavaScript base can underst
 [🇬🇧 | 📋 Promises, async/await](https://javascript.info/async/) \
 [🇬🇧 | 📹 Javascript Async Await, Promesas y Callbacks](https://www.youtube.com/watch?v=Q3HtXuDEy5s) \
 [🇪🇸 | 📹 Cómo funciona Async/Await en menos de 15 minutos](https://www.youtube.com/watch?v=u2axmPnxUoo)
+
+## 〽️ How to work with Arrays
+
+[🇬🇧 | 📋 6 Must Know Javascript Array Methods](https://matheusquintaes.com/6-must-know-javascript-array-methods/)
 
 ## 💪 Create a first NodeJS project with Fastify
 
